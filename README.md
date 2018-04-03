@@ -1,2 +1,8 @@
 # Introduction To Machine Learning Coursera
-Fully vectorised solutions to courseras introduction to machine learning by Andrew NG
+Fully vectorised solutions to Courseras introduction to machine learning by Andrew Ng
+Including:
+    -Linear regression
+    -logistic regression
+    -SVMs
+    -Neural networks
+    -Recommender systems
